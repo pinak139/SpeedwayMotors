@@ -1,6 +1,4 @@
 
-Open In Colab
-In [ ]:	
 
 # -*- coding: utf-8 -*-
 """
